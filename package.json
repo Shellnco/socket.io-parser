@@ -24,7 +24,7 @@
     "babelify": "~10.0.0",
     "benchmark": "2.1.2",
     "expect.js": "0.3.1",
-    "mocha": "3.2.0",
+    "mocha": "10.2.0",
     "prettier": "^2.1.2",
     "rimraf": "^3.0.2",
     "socket.io-browsers": "^1.0.0",
